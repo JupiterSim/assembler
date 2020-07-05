@@ -1,0 +1,11 @@
+export { LRW } from './lrw';
+export { SCW } from './scw';
+export { AMOSWAPW } from './amoswapw';
+export { AMOADDW } from './amoaddw';
+export { AMOXORW } from './amoxorw';
+export { AMOANDW } from './amoandw';
+export { AMOORW } from './amoorw';
+export { AMOMINW } from './amominw';
+export { AMOMAXW } from './amomaxw';
+export { AMOMINUW } from './amominuw';
+export { AMOMAXUW } from './amomaxuw';
