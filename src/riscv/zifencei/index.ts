@@ -1,0 +1,1 @@
+export { FENCEI } from './fencei';
