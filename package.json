@@ -16,7 +16,7 @@
   "dependencies": {
     "@jupitersim/helpers": "^1.0.0",
     "antlr4ts": "^0.5.0-alpha.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
